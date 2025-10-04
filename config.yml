@@ -1,0 +1,4 @@
+rules:
+  inactive_days: 14
+  fork_required: true
+  min_comments: 2
